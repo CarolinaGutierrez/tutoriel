@@ -1,7 +1,9 @@
 # Exemple de cours Escapad
-## bxcbxc
-fhd f 
-x ffh
+# Campus Numérique 
+## Actualités
+## Projets
+- CMS
+- Espaces d'apprentissage
 ## Sous section de cours
 
 Voici une sous-section de cours **Esc@pad**
